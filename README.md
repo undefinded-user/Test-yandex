@@ -1,9 +1,9 @@
 # Test-yandex
 
 Simple javascript app, that 
-	* takes two arguments
-	* creates and logs random initial state that simulate virtual board
-	* sets and logs new conditionaly state every seconds
+	- takes two arguments
+	- creates and logs random initial state that simulate virtual board
+	- sets and logs new conditionaly state every seconds
 
 ## Running localy
 
