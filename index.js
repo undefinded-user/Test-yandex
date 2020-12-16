@@ -49,4 +49,4 @@ console.log(initialState)
 setInterval(()=>{
 	initialState = setNewState(initialState)
 	console.log(initialState)
-}, 5000)
+}, 1000)
