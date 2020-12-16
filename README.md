@@ -16,7 +16,7 @@ Make sure you have [Node.js][1]
  	cd Test-yandex
  	node index.js m n
  ```
-m and n - your argument that equal height and width of your virtual board
+m and n are your arguments that equal height and width of your virtual board
 
 ## Example 
 ```
