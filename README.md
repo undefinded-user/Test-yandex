@@ -9,7 +9,7 @@ Simple javascript app, that
 
 Make sure you have [Node.js][1]
 
-[1] : https://nodejs.org/en/ "Node.js"
+[1]: https://nodejs.org/en/ "Node.js"
  
  ```
  	git clone https://github.com/undefinded-user/Test-yandex.git
@@ -22,7 +22,9 @@ m and n - your argument that equal hide and width of your virtual board
 ```
  	node index.js 5 5
 ```
- 	output:
+
+Output:
+
 ```
  	[
 	  [ 1, 0, 0, 1, 0 ],
@@ -32,7 +34,9 @@ m and n - your argument that equal hide and width of your virtual board
 	  [ 0, 0, 0, 0, 1 ]
 	]
 ```
-every second new state
+
+New state logs every second
+
 ```
 	[
 	  [ 0, 0, 0, 1, 0 ],
